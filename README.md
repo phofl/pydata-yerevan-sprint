@@ -1,1 +1,1 @@
-# pydata-yerevan-spring
+# pydata-yerevan-sprint
